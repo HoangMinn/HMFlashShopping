@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'create' => 'Tạo bài đăng mới',
+    'edit' => 'Chỉnh sửa bài đăng',
+    'form' => [
+    'name' => 'Tên',
+    'name_placeholder' => 'Tên bài đăng (Tối đa :c ký tự)',
+    'description' => 'Mô tả',
+    'description_placeholder' => 'Mô tả ngắn cho bài đăng (Tối đa :c ký tự)',
+    'categories' => 'Danh mục',
+    'tags' => 'Thẻ',
+    'tags_placeholder' => 'Thẻ',
+    'content' => 'Nội dung',
+    'is_featured' => 'Đánh dấu là nổi bật?',
+    'note' => 'Ghi chú nội dung',
+    'format_type' => 'Định dạng',
+    ],
+    'cannot_delete' => 'Không thể xóa bài đăng',
+    'post_deleted' => 'Xóa bài đăng thành công',
+    'posts' => 'Bài đăng',
+    'post' => 'Bài đăng',
+    'edit_this_post' => 'Chỉnh sửa bài đăng này',
+    'no_new_post_now' => 'Hiện tại chưa có bài đăng mới!',
+    'menu_name' => 'Bài đăng',
+    'widget_posts_recent' => 'Bài đăng gần đây',
+    'categories' => 'Danh mục',
+    'category' => 'Danh mục',
+    'author' => 'Tác giả',
+];

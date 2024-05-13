@@ -1,0 +1,9 @@
+{
+    "name": "Shopwise",
+    "namespace": "Theme\\Shopwise\\",
+    "description": "Ecommerce shopping theme",
+    "author": "Hoang Minh",
+    "url": "",
+    "version": "1.12",
+    "required_plugins": []
+}
